@@ -82,28 +82,6 @@
 
 ---
 
-## ✅ Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **ApnaBook** | A smart personal note and book tracker. | Kotlin, Android, Firebase | [GitHub](https://github.com/your-repo-link) |
-| **CyberShield** | A cybersecurity awareness tool to simulate attacks. | Python, Flask | *Coming Soon* |
-| **DevConnect** | Developer portfolio & blog system | Node.js, MongoDB, Tailwind | [GitHub](https://github.com/your-repo-link) |
-
-> 📌 *Want to feature your project here? Fork this repo and show me your build!*
-
----
-
-## 🎓 Certifications
-
-- ✅ **Android Development Bootcamp** – Udemy  
-- ✅ **Introduction to Cybersecurity** – Cisco Networking Academy  
-- ✅ **Python for Data Science** – IBM  
-- ✅ **Machine Learning Basics** – Coursera  
-- 📄 [Add your certifications on Credly, LinkedIn, or GitHub Pages for visibility!]
-
----
-
 ## 📊 GitHub Stats
 
 <p>
